@@ -1,0 +1,13 @@
+flask
+flask-cors
+PyPDF2
+numpy
+requests
+python-dotenv
+gunicorn
+setuptools
+wheel
+transformers
+torch
+sentence-transformers
+torch
