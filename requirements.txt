@@ -11,3 +11,6 @@ transformers
 torch
 sentence-transformers
 torch
+
+pdfplumber
+
